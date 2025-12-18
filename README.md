@@ -202,4 +202,4 @@ klike-ai-services/
 
 ##  Links Úteis
 
--  **Documentação**: [https://klike-ai.github.io/klike-ai-services-docs](https://klike-ai.github.io/klike-ai-services-docs)
+-  **Documentação**: [https://klike-ai.github.io/klike-ai-service-docs](https://klike-ai.github.io/klike-ai-service-docs)
